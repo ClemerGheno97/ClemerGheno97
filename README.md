@@ -4,32 +4,23 @@ Sou Clemer Gheno em fase de transição de carreira da área de Auxiliar ADM par
 
 Gosto de orginizacao sou comunicativo e não gosto de deixar problemas para amanha. 
 
- 18 99719-6088 
-
 ### 📫 Conecte-se comigo:
 
 <p>
-<a href="https://www.linkedin.com/in/clemergheno97" target=blank>
+<a href="https://www.linkedin.com/in/clemergheno97">
 <img align="left" width="25px" src="https://cdn-icons-png.flaticon.com/128/3536/3536569.png">
 </a> 
 
-<a href="https://wa.me/5518997196088?text=Ola%2C%20Preciso%20do%20seu%20servi%C3%A7os" target=blank>
+<a href="https://wa.me/5518997196088?text=Ola%2C%20Preciso%20do%20seu%20servi%C3%A7os">
 <img align="left" width="25px" src="https://cdn-icons-png.flaticon.com/128/1384/1384023.png">
 </a> 
-
-  
 <p/>
 
 <br />
 <br />
 
-<p>
-🌱 Estou aprendendo:
-<p/>  
-  
-  <br />
-
-  <img width="25px" src="https://cdn-icons-png.flaticon.com/128/1051/1051328.png"> <img width="25px" src="https://cdn-icons-png.flaticon.com/128/732/732007.png"> <img width="25px" src="https://cdn-icons-png.flaticon.com/128/721/721671.png"> <img width="25px" src="https://cdn-icons-png.flaticon.com/128/3393/3393920.png"> 
+### 🌱 Estou aprendendo:
+<img width="25px" src="https://cdn-icons-png.flaticon.com/128/1051/1051328.png"> <img width="25px" src="https://cdn-icons-png.flaticon.com/128/732/732007.png"> <img width="25px" src="https://cdn-icons-png.flaticon.com/128/721/721671.png"> <img width="25px" src="https://cdn-icons-png.flaticon.com/128/3393/3393920.png"> 
   
   <br />
   <br />
