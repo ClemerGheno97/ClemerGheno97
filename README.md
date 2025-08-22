@@ -9,11 +9,11 @@ Gosto de orginizacao sou comunicativo e não gosto de deixar problemas para aman
 ### 📫 Conecte-se comigo:
 
 <p>
-<a href="https://www.linkedin.com/in/clemergheno97" target="blank">
+<a href="https://www.linkedin.com/in/clemergheno97" target=blank>
 <img align="left" width="25px" src="https://cdn-icons-png.flaticon.com/128/3536/3536569.png">
 </a> 
 
-<a href="https://wa.me/5518997196088?text=Ola%2C%20Preciso%20do%20seu%20servi%C3%A7os" target="blank">
+<a href="https://wa.me/5518997196088?text=Ola%2C%20Preciso%20do%20seu%20servi%C3%A7os" target=blank>
 <img align="left" width="25px" src="https://cdn-icons-png.flaticon.com/128/1384/1384023.png">
 </a> 
 
