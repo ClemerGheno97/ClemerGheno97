@@ -2,7 +2,7 @@
 
 Sou Clemer Gheno em fase de transição de carreira da área de Auxiliar ADM para a área da Programação. Desenvolvedor Front-End com experiência em HTML, CSS e JavaScript. 
 
-Gosto de orginizacao sou comunicativo e não gosto de deixar problemas para amanha. 
+Gosto de organizacao sou comunicativo e não deixar problemas para resolver amanha. 
 
 ### 📫 Conecte-se comigo:
 
